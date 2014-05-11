@@ -65,7 +65,7 @@ include cmd . "admins.php";
 include cmd . "zeg.php";
 include cmd . "rss.php";
 include cmd . "html.php";
-include cmd . "Twitter.php";
+//include cmd . "Twitter.php"; #TWITTER HAS CHANGED THEIR API, THIS IS NOW UN_SUPPORTED! SORRY, WORKING ON FIX.
 include cmd . "CostumCommands.php";
 }
 ?>
